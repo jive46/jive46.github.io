@@ -3,8 +3,7 @@ output: .retype
 url: jive46.github.io
 branding:
   title: SHOKU ONSEN
-  label: Repository
-  logo: static/plane-alt.svg
+  label: Wiki
 favicon: static/favicon.png
 links:
 - text: Food
