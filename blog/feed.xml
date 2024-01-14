@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>https://shokuonsen.com/blog/</link>
+    <description>Blog</description>
+    <copyright>© Copyright 2024. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 14 Jan 2024 00:00:00 GMT</lastBuildDate>
+    <generator>https://retype.com</generator>
+    <atom:link rel="self" type="application/rss+xml" href="https://shokuonsen.com/blog/feed.xml" />
+    <image>
+      <title>Blog</title>
+      <link>https://shokuonsen.com/blog/</link>
+      <url>https://shokuonsen.com/favicon.png</url>
+    </image>
+    <item>
+      <title>SHOKUONSEN Is Now Open!</title>
+      <guid isPermaLink="true">https://shokuonsen.com/blog/nowopen/</guid>
+      <description>After a few days of getting the website up and running, I'm proud to say that SHOKUONSEN is open for business!</description>
+      <author>frank@example.com (Ian Chin)</author>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
