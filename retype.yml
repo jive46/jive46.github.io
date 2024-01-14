@@ -17,4 +17,8 @@ links:
   link: /blog
   icon: book
 footer:
+  links:
+  - text: Contact
+    link: mailto:shokuonsen@gmail.com
+    icon: mail
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

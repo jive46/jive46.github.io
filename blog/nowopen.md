@@ -1,9 +1,6 @@
 ---
 authors:
   - name: Ian Chin
-    email: frank@example.com
-    link: https://twitter.com/frank
-    avatar: https://example.com/frank.jpg
 date: 2024-01-14
 ---
 
