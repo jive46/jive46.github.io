@@ -1,3 +1,10 @@
+---
+meta:
+  title: "Home"
+icon: ":house:"
+description: A simple guide for the best food and hot springs in Japan
+---
+
 # Welcome to SHOKU ONSEN
 
 **食 (Shoku) = Food**
