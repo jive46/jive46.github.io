@@ -7,6 +7,8 @@ description: A simple guide for the best food and hot springs in Japan
 
 # Welcome to SHOKU ONSEN
 
+![](/static/IMG_20191208_133744.jpg)
+
 **食 (Shoku) = Food**
 
 **温泉 (On Sen) = Hot Spring**
