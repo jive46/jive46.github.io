@@ -13,9 +13,6 @@ links:
 - text: About
   link: about.md
   icon: person
-- text: Blog
-  link: /blog
-  icon: book
 footer:
   links:
   - text: Contact
