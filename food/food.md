@@ -4,7 +4,6 @@ meta:
 icon: ":sushi:"
 label: Food
 order: 100
-expanded: true
 ---
 
 # Food in Japan

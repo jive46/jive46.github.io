@@ -4,7 +4,6 @@ meta:
 icon: ":hotsprings:"
 label: Bath
 order: 99
-expanded: true
 ---
 
 # Hot Springs in Japan
