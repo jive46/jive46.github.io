@@ -1,6 +1,6 @@
 ---
 label: Hokkaido
-order: 100
+order: 47
 ---
 
 # Food in Hokkaido Prefecture
