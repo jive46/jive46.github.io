@@ -5,8 +5,6 @@ branding:
   title: SHOKU ONSEN
   label: Wiki
 favicon: static/favicon.png
-exclude:
-  - "draft/"
 meta:
   title: " | SHOKU ONSEN"
 links:
